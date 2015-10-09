@@ -63,5 +63,5 @@ switch operation {
         let avg = Double(sum) / Double(firstArr.count)
         print(avg)
     default:
-        print("Invalid input, cannot make calculation.")
+        print("Invalid input, cannot calculate.")
 }
